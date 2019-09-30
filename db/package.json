@@ -18,5 +18,10 @@
   "homepage": "https://github.com/JairAviles/node-iot#readme",
   "devDependencies": {
     "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.19.1"
   }
 }
