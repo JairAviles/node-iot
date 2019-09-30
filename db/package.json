@@ -1,0 +1,22 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "A Simple IoT platform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairAviles/node-iot.git"
+  },
+  "author": "Jair Israel Aviles Eusebio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JairAviles/node-iot/issues"
+  },
+  "homepage": "https://github.com/JairAviles/node-iot#readme",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
